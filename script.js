@@ -12,9 +12,9 @@ const video_playlist = document.querySelector('.video-playlist .videos');
 let data = [
     {
         'id': 'a1',
-        'title': 'manipulate text background',
-        'name': 'manipulate text background.mp4',
-        'duration': '2:47',
+        'title': 'presentazione',
+        'name': 'presentazione corso copia.mp4',
+        'duration': '0:48',
     },
     {
         'id': 'a2',
