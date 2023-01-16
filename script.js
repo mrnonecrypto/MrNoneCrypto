@@ -18,9 +18,9 @@ let data = [
     },
     {
         'id': 'a2',
-        'title': 'build gauge with css',
-        'name': 'build gauge with css.mp4',
-        'duration': '2:45',
+        'title': 'psicologia da trader',
+        'name': 'psicologia da trader copia.mp4',
+        'duration': '1:02',
     },
     {
         'id': 'a3',
